@@ -4,4 +4,5 @@ Search the Certificate Search site at https://crt.sh for a specific domain, then
 \
 \
 Updated to python
+\
 Usage: .\$0 -d <domain> [optional] -o <output>
